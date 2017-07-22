@@ -2,7 +2,7 @@ import serial
 import pyautogui
 import re
 
-ser = serial.Serial('COM1',9600,timeout=1)
+ser = serial.Serial('COM1', 9600, timeout=1)
 
 while True:
   commdata = ser.readline()
