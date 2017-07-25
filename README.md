@@ -1,6 +1,6 @@
 # comm2excel
 
-Finding a way to transfer some devices input data to the PC's excel file by COMM or RS232 port for record propose. This one might help.
+Finding a way to transfer some devices input data to the PC's excel file by COMM or RS232 port for record propose? This one might help.
 
 Installation
 ------------
